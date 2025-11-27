@@ -32,4 +32,4 @@ SmartLink is a modern Flutter app that lets you **connect APIs, smart devices, a
 ---
 
 ## Licencing
-Visit the LICENSE.md for details
+Visit the [LICENSE.md](/LICENSE.md) for details
