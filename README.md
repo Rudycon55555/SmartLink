@@ -1,11 +1,21 @@
 # SmartLink
 
-SmartLink is a modern Flutter app that lets you **connect APIs, smart devices, and smart controllers** into one unified dashboard. Configure endpoints, protocols, and keys once, and SmartLink gives you persistent connections with rich charts, interactive controls, and quick send‑back panels. [Click Here to download the Android Mobile App for it](https://github.com/Rudycon55555/SmartLink/releases/tag/v1.0.0)
+SmartLink is a modern Flutter app that lets you **connect APIs, smart devices, and smart controllers** into one unified dashboard. Configure endpoints, protocols, and keys once, and SmartLink gives you persistent connections with rich charts, interactive controls, and quick send‑back panels.  
+
+👉 [Download the Android App](https://github.com/Rudycon55555/SmartLink/releases/tag/v1.0.0)
+
+---
+
+## 🚀 Getting Started
+1. Download the `.zip` archive from the release link above.
+2. **Unzip (extract)** the archive to access the `app-release.apk` file.
+3. Transfer the APK to your Android device.
+4. Enable “Install from unknown sources” if it isn’t already turned on (many devices may already have this enabled).
+5. Install and launch SmartLink.
 
 ---
 
 ## ✨ Features
-
 - **Rich API Connections**
   - Configure endpoints, protocols, and keys
   - Send GET/POST requests with custom headers and payloads
@@ -31,5 +41,7 @@ SmartLink is a modern Flutter app that lets you **connect APIs, smart devices, a
 
 ---
 
-## Licencing
-Visit the [LICENSE.md](/LICENSE.md) for details
+## 📜 License
+This project is under the **VbP (View but Private) License**.  
+You may inspect the code, but **modification and redistribution are not permitted**.  
+See [LICENSE.md](/LICENSE.md) for full details.
